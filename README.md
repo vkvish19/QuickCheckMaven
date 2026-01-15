@@ -1,0 +1,1 @@
+- Simple java classes mainly for some logic testing or few util classes, used personally sometimes.
